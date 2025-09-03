@@ -9,7 +9,7 @@ Nó cho phép các router trao đổi thông tin bảng định tuyến với nh
 - Cập nhật: Định kỳ gửi toàn bộ bảng định tuyến cho láng giềng sau mỗi 30 giây (broadcast/multicast).
 - Dễ cấu hình nhưng không tối ưu cho mạng lớn do giới hạn hop và tốc độ hội tụ chậm.
 
-## Sơ đồ mạng RIP
+## Sơ đồ mạng cơ bản RIP
 ![](images/TopologyRIP.png)  
   
 ## Cấu hình RIPv2
